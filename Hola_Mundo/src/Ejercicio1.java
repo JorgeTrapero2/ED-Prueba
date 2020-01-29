@@ -12,7 +12,7 @@ public class Ejercicio1 {
         if(palabra.equals(salida)){
             System.out.println("si");
         }else{
-        	System.out.print("no");
+        	System.out.print("puede");
             
         }
 }
